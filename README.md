@@ -7,7 +7,4 @@ demo app from AppCoda showing below features:
 - Search contacts with custom filter
 - Add new contact to contact book
 
-For details please reference [*A First Look at Contacts Framework in iOS 9*](https://www.appcoda.com/ios-contacts-framework/)
 
-## Screenshots
-![Birthdays](./Birthdays.gif)
